@@ -4,5 +4,5 @@
 ## Grupo 07
 ## Integrantes
 ### Miguel Shevchuk
-**Legajo: **152.603-0
-**Usuario GitHub: **miguelshevchuk
+**Legajo: ** 152.603-0  
+**Usuario GitHub: ** miguelshevchuk  
